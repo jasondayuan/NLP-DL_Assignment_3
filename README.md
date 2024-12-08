@@ -21,4 +21,4 @@ See `1_bonus`.
 ## Task 2
 See `2/reasoning_naive.py`, `2/reasoning_cot.py`, `2/reasoning_icl.py` and `2/reasoning_reflexion.py`.
 
-Note that you need to replace your own deepseek API key in the corresponding parts in the python scripts. The API key in the scripts are already disabled.
+Note that you need to replace your own deepseek API key in the corresponding parts in the python scripts. The API keys in the scripts are already disabled.
